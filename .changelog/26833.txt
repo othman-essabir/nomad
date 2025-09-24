@@ -1,0 +1,3 @@
+```release-note:bug
+ui: add missing deps to fix bug introduced while migrating to pnpm
+```
